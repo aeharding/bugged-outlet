@@ -1,0 +1,7 @@
+{
+  "name": "bugged-outlet",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
